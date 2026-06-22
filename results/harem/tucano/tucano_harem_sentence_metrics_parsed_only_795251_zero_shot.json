@@ -1,0 +1,141 @@
+{
+  "filter": "parsed_only",
+  "n_segments": 2934,
+  "example_based": {
+    "precision": 0.3898,
+    "recall": 0.4716,
+    "f1": 0.4097
+  },
+  "micro": {
+    "precision": 0.1824,
+    "recall": 0.4597,
+    "f1": 0.2612
+  },
+  "macro": {
+    "precision": 0.1256,
+    "recall": 0.1308,
+    "f1": 0.0977
+  },
+  "per_type": {
+    "Abstraction": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Abstração": {
+      "precision": 0.0181,
+      "recall": 0.2605,
+      "f1": 0.0338
+    },
+    "Aconteciment": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Acontecimento": {
+      "precision": 0.0164,
+      "recall": 0.5,
+      "f1": 0.0317
+    },
+    "Acontecmento": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Ano": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Carga elétrica": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Casa": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Coisa": {
+      "precision": 0.0272,
+      "recall": 0.1111,
+      "f1": 0.0438
+    },
+    "Local": {
+      "precision": 0.5327,
+      "recall": 0.6482,
+      "f1": 0.5848
+    },
+    "Localização": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Língua": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Música": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Obra": {
+      "precision": 0.5,
+      "recall": 0.0303,
+      "f1": 0.0571
+    },
+    "Organizacao": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Organization": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Organização": {
+      "precision": 0.5232,
+      "recall": 0.4735,
+      "f1": 0.4971
+    },
+    "Outro": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Pergunta": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Pessoa": {
+      "precision": 0.4242,
+      "recall": 0.6794,
+      "f1": 0.5223
+    },
+    "Pessoas": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Seção": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Tempo": {
+      "precision": 0.4866,
+      "recall": 0.3187,
+      "f1": 0.3852
+    },
+    "Valor": {
+      "precision": 0.4861,
+      "recall": 0.1167,
+      "f1": 0.1882
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "filter": "parsed_only",
+  "n_segments": 2946,
+  "example_based": {
+    "precision": 0.6126,
+    "recall": 0.6662,
+    "f1": 0.6259
+  },
+  "micro": {
+    "precision": 0.3464,
+    "recall": 0.5026,
+    "f1": 0.4101
+  },
+  "macro": {
+    "precision": 0.0993,
+    "recall": 0.107,
+    "f1": 0.0965
+  },
+  "per_type": {
+    "Abstração": {
+      "precision": 0.1144,
+      "recall": 0.106,
+      "f1": 0.11
+    },
+    "Acontecimento": {
+      "precision": 0.0407,
+      "recall": 0.3269,
+      "f1": 0.0723
+    },
+    "Coisa": {
+      "precision": 0.0641,
+      "recall": 0.0645,
+      "f1": 0.0643
+    },
+    "Cor": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Dia": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Doença": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Elemento": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Esportes": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Estado": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Lei": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Linguagem": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Local": {
+      "precision": 0.628,
+      "recall": 0.6522,
+      "f1": 0.6399
+    },
+    "Material": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Nervo": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Obra": {
+      "precision": 0.5238,
+      "recall": 0.2764,
+      "f1": 0.3618
+    },
+    "Onda": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Organização": {
+      "precision": 0.4277,
+      "recall": 0.6171,
+      "f1": 0.5052
+    },
+    "Outro": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Parte": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Pessoa": {
+      "precision": 0.5221,
+      "recall": 0.5574,
+      "f1": 0.5392
+    },
+    "Porcentagem": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Processo": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Profissão": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Programa": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Projeto": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Ramo": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Sentimento": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Seção": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Sistema": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Tema": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Tempo": {
+      "precision": 0.4487,
+      "recall": 0.652,
+      "f1": 0.5316
+    },
+    "Valor": {
+      "precision": 0.506,
+      "recall": 0.28,
+      "f1": 0.3605
+    },
+    "Volume": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  }
+}

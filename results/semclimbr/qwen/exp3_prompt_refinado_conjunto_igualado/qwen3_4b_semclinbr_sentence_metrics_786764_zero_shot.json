@@ -1,0 +1,539 @@
+{
+  "example_based": {
+    "precision": 0.1971,
+    "recall": 0.1673,
+    "f1": 0.1718
+  },
+  "micro": {
+    "precision": 0.2891,
+    "recall": 0.0936,
+    "f1": 0.1414
+  },
+  "macro": {
+    "precision": 0.1445,
+    "recall": 0.0749,
+    "f1": 0.0586
+  },
+  "per_type": {
+    "Abbreviation": {
+      "precision": 0.4915,
+      "recall": 0.2073,
+      "f1": 0.2916
+    },
+    "Acquired Abnormality": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Activity": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Age Group": {
+      "precision": 0.0118,
+      "recall": 0.1176,
+      "f1": 0.0214
+    },
+    "Amino Acid Sequence": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Amino Acid, Peptide, or Protein": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Anatomical Abnormality": {
+      "precision": 0.0625,
+      "recall": 0.1212,
+      "f1": 0.0825
+    },
+    "Antibiotic": {
+      "precision": 0.5,
+      "recall": 0.2222,
+      "f1": 0.3077
+    },
+    "Bacterium": {
+      "precision": 0.2857,
+      "recall": 0.2162,
+      "f1": 0.2462
+    },
+    "Behavior": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Biologically Active Substance": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Biomedical Material": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Biomedical Occupation or Discipline": {
+      "precision": 0.0042,
+      "recall": 1.0,
+      "f1": 0.0083
+    },
+    "Biomedical or Dental Material": {
+      "precision": 0.0132,
+      "recall": 0.4,
+      "f1": 0.0255
+    },
+    "Body Function": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Body Location": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Body Location or Region": {
+      "precision": 0.1943,
+      "recall": 0.1504,
+      "f1": 0.1696
+    },
+    "Body Part": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Body Part or Organ": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Body Part or Organ Component": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Body Part, Organ, or Organ Component": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Body Region": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Body Space or Junction": {
+      "precision": 0.0141,
+      "recall": 0.037,
+      "f1": 0.0204
+    },
+    "Body Substance": {
+      "precision": 0.1065,
+      "recall": 0.1933,
+      "f1": 0.1373
+    },
+    "Body System": {
+      "precision": 0.0172,
+      "recall": 0.1579,
+      "f1": 0.0311
+    },
+    "Cell": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Cell or Molecular Dysfunction": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Classification": {
+      "precision": 0.06,
+      "recall": 0.2143,
+      "f1": 0.0938
+    },
+    "Clinical Attribute": {
+      "precision": 0.0336,
+      "recall": 0.0335,
+      "f1": 0.0335
+    },
+    "Clinical Drug": {
+      "precision": 0.0032,
+      "recall": 0.15,
+      "f1": 0.0064
+    },
+    "Clinical Procedure": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Condition": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Congenital Abnormality": {
+      "precision": 0.25,
+      "recall": 0.1667,
+      "f1": 0.2
+    },
+    "Daily or Recreational Activity": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Diagnostic Procedure": {
+      "precision": 0.3648,
+      "recall": 0.1806,
+      "f1": 0.2416
+    },
+    "Disease or Syndrome": {
+      "precision": 0.4023,
+      "recall": 0.1995,
+      "f1": 0.2667
+    },
+    "Drug": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Drug Delivery Device": {
+      "precision": 0.2,
+      "recall": 0.0263,
+      "f1": 0.0465
+    },
+    "Educational Activity": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Element": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Element, Ion, or Isotope": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Enzyme": {
+      "precision": 0.0526,
+      "recall": 0.25,
+      "f1": 0.087
+    },
+    "Event": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Family Group": {
+      "precision": 0.4211,
+      "recall": 0.1119,
+      "f1": 0.1768
+    },
+    "Finding": {
+      "precision": 0.1803,
+      "recall": 0.0254,
+      "f1": 0.0446
+    },
+    "Fish": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Food": {
+      "precision": 0.2627,
+      "recall": 0.3163,
+      "f1": 0.287
+    },
+    "Functional Concept": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Fungus": {
+      "precision": 0.3333,
+      "recall": 0.5,
+      "f1": 0.4
+    },
+    "Group": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Hazardous or Poisonous Substance": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Health Care Activity": {
+      "precision": 0.4243,
+      "recall": 0.0646,
+      "f1": 0.1121
+    },
+    "Health Care Related Organization": {
+      "precision": 0.4737,
+      "recall": 0.0771,
+      "f1": 0.1325
+    },
+    "Hormone": {
+      "precision": 0.2667,
+      "recall": 0.0212,
+      "f1": 0.0392
+    },
+    "Idea or Concept": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Immunologic Factor": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Individual Behavior": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Injury or Poisoning": {
+      "precision": 0.2,
+      "recall": 0.0238,
+      "f1": 0.0426
+    },
+    "Inorganic Chemical": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Intellectual Product": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Laboratory Procedure": {
+      "precision": 0.4737,
+      "recall": 0.0226,
+      "f1": 0.0431
+    },
+    "Laboratory or Test Result": {
+      "precision": 0.2133,
+      "recall": 0.006,
+      "f1": 0.0117
+    },
+    "Machine Activity": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Manufactured Object": {
+      "precision": 0.08,
+      "recall": 0.0282,
+      "f1": 0.0417
+    },
+    "Medical Device": {
+      "precision": 0.4607,
+      "recall": 0.1156,
+      "f1": 0.1848
+    },
+    "Mental Process": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Mental or Behavioral Dysfunction": {
+      "precision": 0.0714,
+      "recall": 0.025,
+      "f1": 0.037
+    },
+    "Natural Phenomenon or Process": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Negation": {
+      "precision": 0.6354,
+      "recall": 0.0306,
+      "f1": 0.0585
+    },
+    "Neoplastic Process": {
+      "precision": 0.2273,
+      "recall": 0.0467,
+      "f1": 0.0775
+    },
+    "Nucleic Acid": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Nucleic Acid, Nucleoside, or Nucleotide": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Occupational Activity": {
+      "precision": 1.0,
+      "recall": 0.1,
+      "f1": 0.1818
+    },
+    "Organ": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Organ or Tissue Function": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Organic Chemical": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Organism Attribute": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Organism Function": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Organization": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Pathologic Function": {
+      "precision": 1.0,
+      "recall": 0.0036,
+      "f1": 0.0072
+    },
+    "Patient or Disabled Group": {
+      "precision": 0.6232,
+      "recall": 0.2287,
+      "f1": 0.3346
+    },
+    "Peptide": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Pharmacologic Substance": {
+      "precision": 0.6733,
+      "recall": 0.0245,
+      "f1": 0.0473
+    },
+    "Phenomenon or Process": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Physical Object": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Physiologic Function": {
+      "precision": 0.0864,
+      "recall": 0.0186,
+      "f1": 0.0306
+    },
+    "Plant": {
+      "precision": 0.1111,
+      "recall": 1.0,
+      "f1": 0.2
+    },
+    "Population Group": {
+      "precision": 0.0909,
+      "recall": 0.0286,
+      "f1": 0.0435
+    },
+    "Procedure": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Professional or Occupational Group": {
+      "precision": 0.7778,
+      "recall": 0.0115,
+      "f1": 0.0226
+    },
+    "Protein": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Qualitative Concept": {
+      "precision": 0.0806,
+      "recall": 0.0111,
+      "f1": 0.0196
+    },
+    "Quantitative Concept": {
+      "precision": 0.3745,
+      "recall": 0.0274,
+      "f1": 0.051
+    },
+    "Regulation or Law": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Research Activity": {
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1": 0.5
+    },
+    "Sign or Symptom": {
+      "precision": 0.3808,
+      "recall": 0.1764,
+      "f1": 0.2411
+    },
+    "Social Behavior": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Spatial Concept": {
+      "precision": 0.1429,
+      "recall": 0.0033,
+      "f1": 0.0065
+    },
+    "Substance": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Temporal Concept": {
+      "precision": 0.086,
+      "recall": 0.0449,
+      "f1": 0.059
+    },
+    "Therapeutic or Preventive Procedure": {
+      "precision": 0.5269,
+      "recall": 0.0326,
+      "f1": 0.0615
+    },
+    "Tissue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Virus": {
+      "precision": 0.2857,
+      "recall": 0.2857,
+      "f1": 0.2857
+    },
+    "Vitamin": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  }
+}

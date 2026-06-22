@@ -1,0 +1,71 @@
+{
+  "filter": "parsed_only",
+  "n_segments": 1496,
+  "example_based": {
+    "precision": 0.6795,
+    "recall": 0.7324,
+    "f1": 0.6948
+  },
+  "micro": {
+    "precision": 0.3351,
+    "recall": 0.6932,
+    "f1": 0.4518
+  },
+  "macro": {
+    "precision": 0.3424,
+    "recall": 0.5359,
+    "f1": 0.3936
+  },
+  "per_type": {
+    "Abstração": {
+      "precision": 0.0601,
+      "recall": 0.4242,
+      "f1": 0.1053
+    },
+    "Acontecimento": {
+      "precision": 0.1163,
+      "recall": 0.5556,
+      "f1": 0.1923
+    },
+    "Coisa": {
+      "precision": 0.034,
+      "recall": 0.2078,
+      "f1": 0.0585
+    },
+    "Local": {
+      "precision": 0.6611,
+      "recall": 0.8722,
+      "f1": 0.7521
+    },
+    "Obra": {
+      "precision": 0.625,
+      "recall": 0.5056,
+      "f1": 0.559
+    },
+    "Organização": {
+      "precision": 0.4745,
+      "recall": 0.6723,
+      "f1": 0.5563
+    },
+    "Outro": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Pessoa": {
+      "precision": 0.5942,
+      "recall": 0.7859,
+      "f1": 0.6768
+    },
+    "Tempo": {
+      "precision": 0.4449,
+      "recall": 0.8239,
+      "f1": 0.5778
+    },
+    "Valor": {
+      "precision": 0.414,
+      "recall": 0.5118,
+      "f1": 0.4577
+    }
+  }
+}
